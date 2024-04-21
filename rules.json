@@ -1,62 +1,32 @@
 [
   {
-    "id": "rules1",
-    "title": "rules2",
+    "id": "قانون 1",
+    "title": "قوانين المدينة",
     "description": "data/file1.txt"
   },
   {
-    "id": "rule2",
-    "title": "test 2",
+    "id": "قانون 2",
+    "title": "قوانين الأجرام",
     "description": "data/file2.txt"
   },
   {
-    "id": "rule3",
-    "title": "test 3",
+    "id": "قانون 3",
+    "title": "قوانين الشرطة",
     "description": "data/file3.txt"
   },
   {
-    "id": "rule4",
-    "title": "test 3",
+    "id": "قانون 4",
+    "title": "قوانين وزارة العدل",
     "description": "data/file4.txt"
   },
   {
-    "id": "rule5",
-    "title": "test 3",
+    "id": "قانون 5",
+    "title": "قوانين الورشة",
     "description": "data/file5.txt"
   },
   {
-    "id": "rule6",
-    "title": "test 3",
+    "id": "فانون 6",
+    "title": "المناطق الأمنه",
     "description": "data/file6.txt"
-  },
-  {
-    "id": "rule7",
-    "title": "test 3",
-    "description": "data/file7.txt"
-  },
-  {
-    "id": "rule8",
-    "title": "test 3",
-    "description": "data/file8.txt"
-  },
-  {
-    "id": "rule9",
-    "title": "test 3",
-    "description": "data/file9.txt"
-  },
-  {
-    "id": "rule10",
-    "title": "test 3",
-    "description": "data/file10.txt"
-  },
-  {
-    "id": "rule11",
-    "title": "test 3",
-    "description": "data/file11.txt"
-  },
-  {
-    "id": "rule12",
-    "title": "test 3",
-    "description": "data/file12.txt"
   }
 ]
